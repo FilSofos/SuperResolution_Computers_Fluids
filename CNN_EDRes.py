@@ -17,8 +17,8 @@ s2i=4
 # One can also use random data split
 
 data_dir = 'sudexp'
-images_train = [f for f in os.listdir(data_dir) if f.endswith('.png')][:1000]
-images_test = [f for f in os.listdir(data_dir) if f.endswith('.png')][1000:]
+images_train = [f for f in os.listdir(data_dir) if f.endswith('.png')][:350]
+images_test = [f for f in os.listdir(data_dir) if f.endswith('.png')][350:]
 
 
 # Function that pre-process images 
