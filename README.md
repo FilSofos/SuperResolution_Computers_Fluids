@@ -12,3 +12,4 @@ Computers & Fluids, 283, 2024, 106396
 https://www.sciencedirect.com/science/article/pii/S0045793024002275
 
 ![GA](https://github.com/user-attachments/assets/c6587b5d-5519-4ab7-9cbb-453f435b3a5d)
+![Models](https://github.com/user-attachments/assets/5c8a65bf-d364-454c-b7b5-118e274e50f8)
