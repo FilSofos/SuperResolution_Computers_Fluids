@@ -12,8 +12,8 @@ s2i=4
 
 # Define the paths to image folder
 data_dir = 'sudexp'
-images_train = [f for f in os.listdir(data_dir) if f.endswith('.png')][:1000]
-images_test = [f for f in os.listdir(data_dir) if f.endswith('.png')][1000:]
+images_train = [f for f in os.listdir(data_dir) if f.endswith('.png')][:350]
+images_test = [f for f in os.listdir(data_dir) if f.endswith('.png')][350:]
 
 
 def image_in(images_train,data_dir):
